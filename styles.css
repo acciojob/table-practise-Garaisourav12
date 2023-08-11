@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table *{
+	font-size: 1.3em;
+	border: 1px solid black;
+}
+caption{
+	border: 0;
+	font-size: 1.7em;
+}
+b{
+	border: 0;
+}
